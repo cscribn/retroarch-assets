@@ -1,15 +1,10 @@
-Retrosystem Theme for RetroArch & Lakka
+Retrosystem XL Theme for RetroArch & Lakka
 ====================
 
-About Retrosystem
+About Retrosystem XL
 -----------------
 
- Based on Retroactive marked from [baxysqyare](https://github.com/baxysquare/baxy-retroarch-themes) 
- Mixed with Systematic (same repo)
- Color changes to improve contrast
- Added more detail
- Completely changed some icons
- Other misc changes
+ Based on Retrosystem marked from [libretro](https://github.com/libretro/retroarch-assets)
 
 	
 ### Theme Font
