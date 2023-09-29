@@ -1,4 +1,5 @@
 .DS_Store
+sync.ffs_db
 
 # Ignore any installed custom theme.
 /xmb/custom
